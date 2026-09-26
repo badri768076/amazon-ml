@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env*/
+
+# Data, large files, and competition resources (>100MB cannot be pushed to GitHub)
+artifacts/
+**/artifacts/
+output/
+**/output/
+student_resource/
+**/student_resource/
+*.parquet
+*.tsv
+*.zip
+*.tar
+*.gz
+*.pkl
+*.bin
+*.model
+*.pt
+*.pth
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/
+**/__MACOSX/
+Thumbs.db
+ehthumbs.db
+
+# Environment variables
+.env
+.env.*

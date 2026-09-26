@@ -1,0 +1,17 @@
+# Python 3.11+
+# Versions below are the ones the pipeline was tested with; >= keeps it installable on newer stacks.
+pandas>=2.2
+polars>=1.20
+duckdb>=1.1
+numpy>=1.26
+scipy>=1.12
+scikit-learn>=1.5
+rapidfuzz>=3.9
+lightgbm>=4.3
+xgboost>=2.1
+pyarrow>=16.0
+joblib>=1.4
+tqdm>=4.66
+# Tested set: pandas 3.0.2, polars 1.44.2, duckdb 1.5.5, numpy 2.4.4, scipy 1.17.1,
+# scikit-learn 1.8.0, rapidfuzz 3.14.6, lightgbm 4.7.0, xgboost 3.2.0, pyarrow 25.0.1,
+# joblib 1.5.3, tqdm 4.70.1 (Python 3.11.15)
