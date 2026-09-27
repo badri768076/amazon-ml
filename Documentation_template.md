@@ -1,6 +1,6 @@
 # Amazon ML Challenge 2026 — Business Entity Resolution: Documentation
 
-**Team:** `<TEAM NAME>` · **Code:** `code/business_entity_resolution/` · **Reproduce:** `python src/main.py --stage all`
+**Team:** `Team404Error` · **Code:** `code/business_entity_resolution/` · **Reproduce:** `python src/main.py --stage all`
 
 > **Before submitting:** every result cell marked **⟨fill⟩** must be copied from
 > `code/business_entity_resolution/artifacts/reports/` after the pipeline has run on the
